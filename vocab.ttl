@@ -12,17 +12,17 @@
 <https://jardindesconnaissances.univ-paris8.fr/onto/com> a owl:Ontology ;
     dcterms:title "E-commerce" .
 
-fup8:Departement a rdfs:Class ;
+com:Departement a rdfs:Class ;
     rdfs:label "Département" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-fup8:University a rdfs:Class ;
+com:University a rdfs:Class ;
     rdfs:label "Université" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-fup8:UFR a rdfs:Class ;
+com:UFR a rdfs:Class ;
     rdfs:label "Unité de Formation et de Recherche" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
