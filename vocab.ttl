@@ -4,42 +4,42 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
 @prefix o: <http://omeka.org/s/vocabs/o#> .
-@prefix com: <https://jardindesconnaissances.univ-paris8.fr/onto/com#> .
+@prefix ecom: <https://jardindesconnaissances.univ-paris8.fr/onto/ecom#> .
 @prefix teach: <http://linkedscience.org/teach/ns#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/>.
 @prefix schema: <http://schema.org/>.
 
-<https://jardindesconnaissances.univ-paris8.fr/onto/com> a owl:Ontology ;
+<https://jardindesconnaissances.univ-paris8.fr/onto/ecom> a owl:Ontology ;
     dcterms:title "E-commerce" .
 
-com:CRM a rdfs:Class ;
+ecom:CRM a rdfs:Class ;
     rdfs:label "CRM" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-com:Analytics a rdfs:Class ;
+ecom:Analytics a rdfs:Class ;
     rdfs:label "Analytics" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-com:Data a rdfs:Class ;
+ecom:Data a rdfs:Class ;
     rdfs:label "Data" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-com:hasCRM a rdf:Property ;
+ecom:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
     rdfs:comment "Gestion des clients" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-com:hasAnalytics a rdf:Property ;
+ecom:hasAnalytics a rdf:Property ;
     rdfs:label "Analytics" ;
     rdfs:comment "Google" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-com:hasData a rdf:Property ;
+ecom:hasData a rdf:Property ;
     rdfs:label "Data" ;
     rdfs:comment "Database" ;
     rdfs:domain o:Resource ;
