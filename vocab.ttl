@@ -29,7 +29,7 @@ com:Data a rdfs:Class ;
 
 com:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
-    rdfs:comment "Gestion des utilisateurs" ;
+    rdfs:comment "Gestion des clients" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
