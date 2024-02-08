@@ -40,7 +40,7 @@ com:hasAnalytics a rdf:Property ;
     vs:term_status "experimental" .
 
 com:hasData a rdf:Property ;
-    rdfs:label "A comme laboratoire" ;
-    rdfs:comment "Relation avec un laboratoire" ;
+    rdfs:label "Data" ;
+    rdfs:comment "Database" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
