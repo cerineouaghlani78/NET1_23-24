@@ -26,3 +26,21 @@ com:Data a rdfs:Class ;
     rdfs:label "Data" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+com:hasCRM a rdf:Property ;
+    rdfs:label "CRM" ;
+    rdfs:comment "Gestion des utilisateurs" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+com:hasAnalytics a rdf:Property ;
+    rdfs:label "Analytics" ;
+    rdfs:comment "Relation avec une école doctorale" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+com:hasData a rdf:Property ;
+    rdfs:label "A comme laboratoire" ;
+    rdfs:comment "Relation avec un laboratoire" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
