@@ -4,13 +4,13 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix vs: <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
 @prefix o: <http://omeka.org/s/vocabs/o#> .
-@prefix fup8: <https://jardindesconnaissances.univ-paris8.fr/onto/fup8#> .
+@prefix com: <https://jardindesconnaissances.univ-paris8.fr/onto/com#> .
 @prefix teach: <http://linkedscience.org/teach/ns#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/>.
 @prefix schema: <http://schema.org/>.
 
-<https://jardindesconnaissances.univ-paris8.fr/onto/fup8> a owl:Ontology ;
-    dcterms:title "Formation Université Paris 8" .
+<https://jardindesconnaissances.univ-paris8.fr/onto/com> a owl:Ontology ;
+    dcterms:title "E-commerce" .
 
 fup8:Departement a rdfs:Class ;
     rdfs:label "Département" ;
