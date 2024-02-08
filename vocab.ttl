@@ -35,7 +35,7 @@ com:hasCRM a rdf:Property ;
 
 com:hasAnalytics a rdf:Property ;
     rdfs:label "Analytics" ;
-    rdfs:comment "Relation avec une école doctorale" ;
+    rdfs:comment "Google" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
