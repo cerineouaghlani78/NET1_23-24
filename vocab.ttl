@@ -55,3 +55,15 @@ ecom:hasReferencement a rdf:Property ;
     rdfs:comment "Optimisation de mots clés" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+ecom:hasSmartdata a rdf:Property ;
+    rdfs:label "Smart data" ;
+    rdfs:comment "2V" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+ecom:hasBigdata a rdf:Property ;
+    rdfs:label "Big data" ;
+    rdfs:comment "3V" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
