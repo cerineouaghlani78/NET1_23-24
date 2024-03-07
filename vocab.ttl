@@ -27,7 +27,7 @@ ecom:Data a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-ecom:Data a rdfs:Class ;
+ecom:Referencement a rdfs:Class ;
     rdfs:label "Référencement" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
