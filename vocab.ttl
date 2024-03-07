@@ -67,3 +67,15 @@ ecom:hasBigdata a rdf:Property ;
     rdfs:comment "3V" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+ecom:hasCMP a rdf:Property ;
+    rdfs:label "CMP" ;
+    rdfs:comment "CMP" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+ecom:hasRGPD a rdf:Property ;
+    rdfs:label "RGPD" ;
+    rdfs:comment "RGPD" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
