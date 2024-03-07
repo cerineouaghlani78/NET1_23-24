@@ -56,6 +56,12 @@ ecom:hasReferencement a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+ecom:hasReferencement a rdf:Property ;
+    rdfs:label "SEA" ;
+    rdfs:comment "Optimisation de mots clés payant" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 ecom:hasSmartdata a rdf:Property ;
     rdfs:label "Smart data" ;
     rdfs:comment "2V" ;
