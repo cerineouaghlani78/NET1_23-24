@@ -68,6 +68,12 @@ ecom:hasSEA a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+ecom:hasSMO a rdf:Property ;
+    rdfs:label "SMO" ;
+    rdfs:comment "référencement social média" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 ecom:hasSmartdata a rdf:Property ;
     rdfs:label "Smart data" ;
     rdfs:comment "2V" ;
