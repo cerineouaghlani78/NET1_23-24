@@ -27,6 +27,11 @@ ecom:Data a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+ecom:Data a rdfs:Class ;
+    rdfs:label "Référencement" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 ecom:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
     rdfs:comment "Gestion des clients" ;
@@ -42,5 +47,11 @@ ecom:hasAnalytics a rdf:Property ;
 ecom:hasData a rdf:Property ;
     rdfs:label "Data" ;
     rdfs:comment "Database" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+ecom:hasReferencement a rdf:Property ;
+    rdfs:label "SEO" ;
+    rdfs:comment "Optimisation de mots clés" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
