@@ -32,6 +32,11 @@ ecom:Referencement a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+ecom:Approchedevaluation a rdfs:Class ;
+    rdfs:label "Approche d'évaluation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 ecom:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
     rdfs:comment "Gestion des clients" ;
