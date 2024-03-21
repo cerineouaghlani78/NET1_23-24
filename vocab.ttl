@@ -37,11 +37,60 @@ ecom:Approchedevaluation a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-ecom:hasprogrammation a rdf:Property ;
-    rdfs:label "SQL" ;
-    rdfs:comment "SGBD" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
+# Définition de la classe Produit
+ecom:Produit rdf:type rdfs:Class ;
+    rdfs:label "Produit" .
+
+# Définition de la classe Commande
+ecom:Commande rdf:type rdfs:Class ;
+    rdfs:label "Commande" .
+
+# Propriétés des produits
+ecom:aPourNom rdf:type rdf:Property ;
+    rdfs:label "a pour nom" ;
+    rdfs:domain ecom:Produit ;
+    rdfs:range rdfs:Literal .
+
+ecom:aPourDescription rdf:type rdf:Property ;
+    rdfs:label "a pour description" ;
+    rdfs:domain ecom:Produit ;
+    rdfs:range rdfs:Literal .
+
+ecom:aPourPrix rdf:type rdf:Property ;
+    rdfs:label "a pour prix" ;
+    rdfs:domain ecom:Produit ;
+    rdfs:range xsd:decimal .
+
+ecom:aPourCategorie rdf:type rdf:Property ;
+    rdfs:label "a pour catégorie" ;
+    rdfs:domain ecom:Produit ;
+    rdfs:range rdfs:Resource .
+
+ecom:estEnStock rdf:type rdf:Property ;
+    rdfs:label "est en stock" ;
+    rdfs:domain ecom:Produit ;
+    rdfs:range xsd:boolean .
+
+ecom:aPourImage rdf:type rdf:Property ;
+    rdfs:label "a pour image" ;
+    rdfs:domain ecom:Produit ;
+    rdfs:range rdfs:Resource .
+
+# Propriétés des commandes
+ecom:contientProduit rdf:type rdf:Property ;
+    rdfs:label "contient produit" ;
+    rdfs:domain ecom:Commande ;
+    rdfs:range ecom:Produit .
+
+ecom:aPourQuantite rdf:type rdf:Property ;
+    rdfs:label "a pour quantité" ;
+    rdfs:domain ecom:Commande ;
+    rdfs:range xsd:nonNegativeInteger .
+
+ecom:aPourClient rdf:type rdf:Property ;
+    rdfs:label "a pour client" ;
+    rdfs:domain ecom:Commande ;
+    rdfs:range foaf:Person .
 
 ecom:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
