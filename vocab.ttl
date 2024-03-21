@@ -37,6 +37,12 @@ ecom:Approchedevaluation a rdfs:Class ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+ecom:hasprogrammation a rdf:Property ;
+    rdfs:label "SQL" ;
+    rdfs:comment "SGBD" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
 ecom:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
     rdfs:comment "Gestion des clients" ;
