@@ -56,11 +56,6 @@ ecom:aPourDescription rdf:type rdf:Property ;
     rdfs:domain ecom:Produit ;
     rdfs:range rdfs:Literal .
 
-ecom:aPourPrix rdf:type rdf:Property ;
-    rdfs:label "a pour prix" ;
-    rdfs:domain ecom:Produit ;
-    rdfs:range xsd:decimal .
-
 ecom:aPourCategorie rdf:type rdf:Property ;
     rdfs:label "a pour catégorie" ;
     rdfs:domain ecom:Produit ;
