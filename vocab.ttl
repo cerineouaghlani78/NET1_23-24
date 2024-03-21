@@ -45,6 +45,22 @@ ecom:Produit rdf:type rdfs:Class ;
 ecom:Commande rdf:type rdfs:Class ;
     rdfs:label "Commande" .
 
+# Propriétés des commandes
+ecom:contientProduit rdf:type rdf:Property ;
+    rdfs:label "contient produit" ;
+    rdfs:domain ecom:Commande ;
+    rdfs:range ecom:Produit .
+
+ecom:aPourQuantite rdf:type rdf:Property ;
+    rdfs:label "a pour quantité" ;
+    rdfs:domain ecom:Commande ;
+    rdfs:range xsd:nonNegativeInteger .
+
+ecom:aPourClient rdf:type rdf:Property ;
+    rdfs:label "a pour client" ;
+    rdfs:domain ecom:Commande ;
+    rdfs:range foaf:Person 
+
 # Propriétés des produits
 ecom:aPourNom rdf:type rdf:Property ;
     rdfs:label "a pour nom" ;
