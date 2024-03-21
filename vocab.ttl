@@ -38,13 +38,15 @@ ecom:Approchedevaluation a rdfs:Class ;
     vs:term_status "experimental" .
 
 # Définition de la classe Produit
-ecom:Produit rdf:type rdfs:Class ;
-    rdfs:label "Produit" o:Resource ;
+ecom:Produit a rdfs:Class ;
+    rdfs:label "Produit";
+    rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 # Définition de la classe Commande
-ecom:Commande rdf:type rdfs:Class ;
-    rdfs:label "Commande" o:Resource ;
+ecom:Commande a rdfs:Class ;
+    rdfs:label "Commande";
+    rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
 # Propriétés des commandes
