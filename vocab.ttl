@@ -61,32 +61,6 @@ ecom:aPourCategorie rdf:type rdf:Property ;
     rdfs:domain ecom:Produit ;
     rdfs:range rdfs:Resource .
 
-ecom:estEnStock rdf:type rdf:Property ;
-    rdfs:label "est en stock" ;
-    rdfs:domain ecom:Produit ;
-    rdfs:range xsd:boolean .
-
-ecom:aPourImage rdf:type rdf:Property ;
-    rdfs:label "a pour image" ;
-    rdfs:domain ecom:Produit ;
-    rdfs:range rdfs:Resource .
-
-# Propriétés des commandes
-ecom:contientProduit rdf:type rdf:Property ;
-    rdfs:label "contient produit" ;
-    rdfs:domain ecom:Commande ;
-    rdfs:range ecom:Produit .
-
-ecom:aPourQuantite rdf:type rdf:Property ;
-    rdfs:label "a pour quantité" ;
-    rdfs:domain ecom:Commande ;
-    rdfs:range xsd:nonNegativeInteger .
-
-ecom:aPourClient rdf:type rdf:Property ;
-    rdfs:label "a pour client" ;
-    rdfs:domain ecom:Commande ;
-    rdfs:range foaf:Person .
-
 ecom:hasCRM a rdf:Property ;
     rdfs:label "CRM" ;
     rdfs:comment "Gestion des clients" ;
