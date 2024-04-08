@@ -6,7 +6,7 @@ J'ai donc dû établir une stratégie afin d'approcher le vocabulaire d'une mani
 
 J'ai pû créer un total de 29 items, avec des items en lien avec :
 - la data : valeur, véracité, vélocité, variété, CMP, RGPD, Collecter et qualifier les données, Database
-- marketing : customer relationship management, marketing numérique,
 - Les acteurs : les clients, les développeurs, entreprises, DPO,
-- Le moyens utilisés : e-commerce, CMS,
+- Le moyens utilisés : e-commerce, customer relationship management, marketing numérique,
 - Méthode d'évaluation : KPI
+- Outils : Google analytics, CMS
