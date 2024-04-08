@@ -8,5 +8,6 @@ J'ai pû créer un total de 29 items, avec des items en lien avec :
 - la data : valeur, véracité, vélocité, variété, CMP, RGPD, Collecter et qualifier les données, Database
 - Les acteurs : les clients, les développeurs, entreprises, DPO,
 - Le moyens utilisés : e-commerce, customer relationship management, marketing numérique,
-- Méthode d'évaluation : KPI
-- Outils : Google analytics, CMS
+- Méthode d'évaluation : KPI, Évaluer le dispositif
+- Outils : Google analytics, CMS, mots clés
+- Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter,
