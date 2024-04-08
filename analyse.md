@@ -5,9 +5,10 @@ Lors de la création de mon modèle web sémantique sur Omeka, j'ai dû choisir 
 J'ai donc dû établir une stratégie afin d'approcher le vocabulaire d'une manière web sémantique avec la plateforme Omeka. La première chose que j'ai pû faire est de comprendre le fonctionnement de Omeka en créant des items en premier.
 
 J'ai pû créer un total de 29 items, avec des items en lien avec :
-- la data : valeur, véracité, vélocité, variété, CMP, RGPD, Collecter et qualifier les données, Database
+- la data : valeur, véracité, vélocité, variété, CMP, RGPD, Collecter et qualifier les données, Database, Information systeme
 - Les acteurs : les clients, les développeurs, entreprises, DPO,
 - Le moyens utilisés : e-commerce, customer relationship management, marketing numérique,
-- Méthode d'évaluation : KPI, Évaluer le dispositif
+- Méthode d'évaluation : KPI, Évaluer le dispositif, Approche d'évaluation
 - Outils : Google analytics, CMS, mots clés
-- Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter,
+- Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter, User experience
+- Modèle de création e-commerce : catalogue, référence produit, 
