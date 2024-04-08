@@ -12,3 +12,12 @@ J'ai pû créer un total de 29 items, avec des items en lien avec :
 - Outils : Google analytics, CMS, mots clés
 - Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter, User experience
 - Modèle de création e-commerce : catalogue, référence produit, 
+
+Suite à la création de ces nombreux items j'ai souhaité étendre mon vocabulaire et le lier grâce au RDF lier class et propriétés.
+
+Définition : 
+*RDF Schema ou RDFS (acronyme de Resource Description Framework Schema) est un langage extensible de représentation des connaissances. Il appartient à la famille des langages du Web sémantique publiés par le W3C. RDFS fournit des éléments de base pour la définition d'ontologies ou vocabulaires destinés à structurer des ressources RDF, ces derniers pouvant être stockés dans des bases de données appelées triplestores et manipulés à l'aide des requêtes en langage SPARQL.*
+
+*La première version de RDFS1 a été proposée en mars 1999 pour être publiée en tant que recommandation par le W3C le 10 février 20042. Les composants principaux de RDFS sont intégrés dans un langage d'ontologie plus expressif, OWL.*
+
+**Source : https://fr.wikipedia.org/wiki/RDF_Schema**
