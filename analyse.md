@@ -13,6 +13,8 @@ J'ai pû créer un total de 29 items, avec des items en lien avec :
 - Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter, User experience
 - Modèle de création e-commerce : catalogue, référence produit, 
 
+##Vocabulaire RDF
+
 Suite à la création de ces nombreux items j'ai souhaité étendre mon vocabulaire et le lier grâce au RDF lier class et propriétés.
 
 Définition : 
@@ -21,3 +23,9 @@ Définition :
 *La première version de RDFS1 a été proposée en mars 1999 pour être publiée en tant que recommandation par le W3C le 10 février 20042. Les composants principaux de RDFS sont intégrés dans un langage d'ontologie plus expressif, OWL.*
 
 **Source : https://fr.wikipedia.org/wiki/RDF_Schema**
+
+Afin de créer mon vocabulaire j'ai dû utiliser la plateforme Github et créer un fil ainsi de créer un fichier .ttl.
+
+Le moment était donc venu de créer mes propriétés et mes class. J'ai avant cela donné un nom au préfixe qui est ecom. Cela est le diminutif de e-commerce. J'ai aussi personnalisé URL avec mon préfixe.
+
+
