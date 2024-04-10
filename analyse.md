@@ -13,7 +13,7 @@ J'ai pû créer un total de 29 items, avec des items en lien avec :
 - Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter, User experience
 - Modèle de création e-commerce : catalogue, référence produit, 
 
-##Vocabulaire RDF
+## Vocabulaire RDF
 
 Suite à la création de ces nombreux items j'ai souhaité étendre mon vocabulaire et le lier grâce au RDF lier class et propriétés.
 
