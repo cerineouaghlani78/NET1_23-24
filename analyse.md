@@ -2,6 +2,8 @@
 
 Lors de la création de mon modèle web sémantique sur Omeka, j'ai dû choisir un thème j'ai donc choisi le e-commerce. Le e-commerce contient un vocabulaire immense qui le constitue comme des class majeur comme la data, le marketing ou même l'expérience utilisateur.
 
+### Items
+
 J'ai donc dû établir une stratégie afin d'approcher le vocabulaire d'une manière web sémantique avec la plateforme Omeka. La première chose que j'ai pû faire est de comprendre le fonctionnement de Omeka en créant des items en premier.
 
 J'ai pû créer un total de 29 items, avec des items en lien avec :
@@ -13,7 +15,7 @@ J'ai pû créer un total de 29 items, avec des items en lien avec :
 - Stratégie marketing : Référencement, Adapter la politique marketing, Segmenter, User experience
 - Modèle de création e-commerce : catalogue, référence produit, 
 
-## Vocabulaire RDF
+### Vocabulaire RDF
 
 Suite à la création de ces nombreux items j'ai souhaité étendre mon vocabulaire et le lier grâce au RDF lier class et propriétés.
 
