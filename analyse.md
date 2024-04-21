@@ -34,4 +34,5 @@ J'ai élaboré une ontologie pour modéliser différents aspects du domaine du e
 
 En plus des classes, j'ai également défini des propriétés pour décrire les relations entre ces concepts. Par exemple, j'ai défini des propriétés comme "contient produit", "a pour quantité", "a pour client", pour exprimer les liens entre les commandes et les produits, ainsi que les clients associés. Chaque propriété a été assortie d'une étiquette, spécifiant son nom, et j'ai précisé les types de ressources sources et cibles pour chaque relation.
 
+##Ressources templates
 
