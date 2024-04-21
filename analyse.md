@@ -40,5 +40,5 @@ Tout d'abord le ressource template qu'est ce que c'est ?
 
 Le ressource template est un ensemble de propriétés prédéfinies, éventuellement avec une classe, pour guider la création d’éléments et l’interprétation des propriétés.
 
-**Source :https://omeka.org/s/docs/usermanual/content/resourcetemplate/#:~:text=A%20Resource%20template%20is%20a,under%20the%20section%20labeled%20Resources.
+**Source :https://omeka.org/s/docs/usermanual/content/resourcetemplate/#:~:text=A%20Resource%20template%20is%20a,under%20the%20section%20labeled%20Resources.**
 
