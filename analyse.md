@@ -42,3 +42,11 @@ Le ressource template est un ensemble de propriétés prédéfinies, éventuelle
 
 **Source :https://omeka.org/s/docs/usermanual/content/resourcetemplate/#:~:text=A%20Resource%20template%20is%20a,under%20the%20section%20labeled%20Resources.**
 
+J'ai créé une ressource template sur Omeka, que j'ai nommée "Approche d'évaluation". Cette ressource a été conçue pour encapsuler les différentes méthodes et stratégies d'évaluation utilisées dans le domaine du commerce électronique. Pour enrichir cette ressource et la rendre plus complète, j'ai lié plusieurs propriétés à celle-ci, chacune représentant un aspect clé de l'évaluation dans le contexte du commerce électronique.
+
+La première propriété que j'ai liée à la ressource "Approche d'évaluation" est "Big data". Cette propriété est associée à trois items spécifiques : Variété, Volume et Vélocité. Ces items représentent les différentes dimensions du Big Data, couvrant la diversité des données, leur volume massif et leur vitesse de génération.
+
+Ensuite, j'ai lié une autre propriété, "Smart data", à la ressource "Approche d'évaluation". Cette propriété est liée à deux items : Véracité et Valeur. Ces items mettent en avant l'importance de la qualité et de la pertinence des données dans le processus d'évaluation, ainsi que la valeur ajoutée qu'elles apportent à l'analyse et à la prise de décision.
+
+Enfin, j'ai ajouté une dernière propriété à la ressource "Approche d'évaluation" : "CRM" (Customer Relationship Management). Cette propriété est liée à cinq items qui représentent les principales fonctions du CRM dans le domaine du commerce électronique : Segmenter, Collecter et qualifier les données, Adapter la politique marketing, Interagir avec les clients et Évaluer le dispositif. Ces items décrivent les différentes étapes et activités impliquées dans la gestion de la relation client, qui est essentielle pour évaluer et améliorer les performances d'une entreprise dans le commerce en ligne.
+
