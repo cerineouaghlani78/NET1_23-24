@@ -34,5 +34,11 @@ J'ai élaboré une ontologie pour modéliser différents aspects du domaine du e
 
 En plus des classes, j'ai également défini des propriétés pour décrire les relations entre ces concepts. Par exemple, j'ai défini des propriétés comme "contient produit", "a pour quantité", "a pour client", pour exprimer les liens entre les commandes et les produits, ainsi que les clients associés. Chaque propriété a été assortie d'une étiquette, spécifiant son nom, et j'ai précisé les types de ressources sources et cibles pour chaque relation.
 
-##Ressources templates
+## Ressources templates
+
+Tout d'abord le ressource template qu'est ce que c'est ?
+
+Le ressource template est un ensemble de propriétés prédéfinies, éventuellement avec une classe, pour guider la création d’éléments et l’interprétation des propriétés.
+
+**Source :https://omeka.org/s/docs/usermanual/content/resourcetemplate/#:~:text=A%20Resource%20template%20is%20a,under%20the%20section%20labeled%20Resources.
 
