@@ -30,4 +30,8 @@ Afin de créer mon vocabulaire j'ai dû utiliser la plateforme Github et créer 
 
 Le moment était donc venu de créer mes propriétés et mes class. J'ai avant cela donné un nom au préfixe qui est ecom. Cela est le diminutif de e-commerce. J'ai aussi personnalisé URL avec mon préfixe.
 
+J'ai élaboré une ontologie pour modéliser différents aspects du domaine du e-commerce. En utilisant le langage RDF (Resource Description Framework), j'ai structuré l'ontologie en définissant des classes pour représenter des concepts tels que les CRM, Analytics, Data, Référencement, et d'autres encore, qui sont pertinents dans le contexte du commerce électronique. J'ai également défini des propriétés pour décrire les relations entre ces concepts, telles que les produits, les commandes, les clients et les services associés.
+
+En plus des classes, j'ai également défini des propriétés pour décrire les relations entre ces concepts. Par exemple, j'ai défini des propriétés comme "contient produit", "a pour quantité", "a pour client", pour exprimer les liens entre les commandes et les produits, ainsi que les clients associés. Chaque propriété a été assortie d'une étiquette, spécifiant son nom, et j'ai précisé les types de ressources sources et cibles pour chaque relation.
+
 
